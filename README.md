@@ -110,7 +110,7 @@ Open [`index.html`](./index.html) and fill your information, there are 6 section
     <h1 class="hero-title">
       Hi, my name is <span class="text-color-main name">Your Name</span>
       <br />
-      I'm the Unknown Developer.
+      Have fun in creating the portfolio website.
     </h1>
     <p class="hero-cta">
       <a class="cta-btn cta-btn--hero" href="#about">Get in touch</a>
